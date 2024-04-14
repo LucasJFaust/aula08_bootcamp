@@ -5,10 +5,10 @@
 ![alt text](image.png)
 
 """
-Estrutura do Projeto: 
+Estrutura do Projeto:
 
 - Ferramenta de Processameno = Pandas
-- Ferramenta de Qualidade = 
+- Ferramenta de Qualidade =
 
 1. Modulo de Etl: Criar um arquivo etl.py:
     - Ler um arquivo
